@@ -2,7 +2,7 @@
     "name": "PING_Analizator",
     "version": "1.0",
     "author": "MrNansy",
-    "url": ".",
+    "url": "https://github.com/DevelopersOOIB/Cortex_analizer",
     "license": "AGPL-V3",
     "description": "PING IP",
     "dataTypeList": ["ip"],
