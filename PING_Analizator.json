@@ -1,0 +1,20 @@
+{
+    "name": "PING_Analizator",
+    "version": "1.0",
+    "author": "MrNansy",
+    "url": ".",
+    "license": "AGPL-V3",
+    "description": "PING IP",
+    "dataTypeList": ["ip"],
+    "baseConfig": "PING_Analizator",
+    "configurationItems": [
+      {
+        "name": "key",
+        "description": "API key for PING_Analizator",
+        "type": "string",
+        "multi": false,
+        "required": true
+      }
+    ],
+    "command": "NSI/NSI.py"
+  }
